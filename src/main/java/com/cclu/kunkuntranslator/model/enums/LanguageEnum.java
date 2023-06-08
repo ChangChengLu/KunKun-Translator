@@ -9,8 +9,8 @@ import com.cclu.kunkuntranslator.exception.BusinessException;
  */
 public enum LanguageEnum {
     /**
-     * kunkun=哎呦,你干嘛,鸡你太美,鸡
-     * ghost=我是一个特别固执的人,泰裤啦,如果你也和我一样,鸡
+     * kunkun=哎呦,你干嘛,鸡你太美,厉不厉害你坤哥
+     * ghost=我是一个特别固执的人,泰裤啦,如果你也和我一样,我从来不会在意别人跟我说什么
      */
     KUNKUN("哎呦","你干嘛","鸡你太美","厉不厉害你坤哥"),
     GHOST("我是一个特别固执的人","泰裤啦","如果你也和我一样","我从来不会在意别人跟我说什么");

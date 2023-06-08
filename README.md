@@ -46,3 +46,15 @@
 
 ![image-20230608144150343](README.assets/image-20230608144150343.png)
 
+## 当前支持语言类型
+
+> 如果需要定制化需求，可以在model.enums里面修改，添加自己的语料库。
+
+- 坤语`kun`
+- 小鬼语`ghost`
+
+![image-20230608153013213](README.assets/image-20230608153013213.png)
+
+## 如何访问
+
+前端暂未开发，可以将项目跑起来，查看`http://localhost:8080/api/doc.html`文档进行在线调试。
